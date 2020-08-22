@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/UI_Single_music_circulation.png</file>
+        <file>res/UI_Random.png</file>
+        <file>res/UI_Previous.png</file>
+        <file>res/UI_PlayerList.png</file>
+        <file>res/UI_Play.png</file>
+        <file>res/UI_Pause.png</file>
+        <file>res/UI_Next.png</file>
+        <file>res/UI_Loop.png</file>
+        <file>res/MD_Volume_up.png</file>
+        <file>res/MD_Volume_off.png</file>
+        <file>res/MD_Volume_mute.png</file>
+        <file>res/MD_Volume_down.png</file>
+        <file>res/MD_Remove.png</file>
+        <file>res/MD_Clear.png</file>
+        <file>res/MD_Add.png</file>
+        <file>res/logo.png</file>
+        <file>res/menu.png</file>
+        <file>res/Mask.png</file>
+    </qresource>
+</RCC>
